@@ -19,20 +19,20 @@ Run the Churn_Prediction_Telecom.py script to train the model and make predictio
 Provide user input when prompted for real-time predictions.
 Review the accuracy score and classification report for model evaluation.
 Project Structure
-Data Preprocessing:
 
+Data Preprocessing:
 Removal of unnecessary columns.
 Handling missing values and encoding categorical variables.
-Model Training:
 
+Model Training:
 Logistic Regression model is employed for binary classification.
 The dataset is split into training and testing sets.
-User Interface:
 
+User Interface:
 Collects user input for making real-time predictions.
 Displays the probability of churn and the final prediction.
-Results:
 
+Results:
 Accuracy score and classification report provide insights into the model's performance.
 Conclusion
 This project demonstrates the application of machine learning in predicting customer churn in the telecom industry. The Logistic Regression model offers a practical solution for businesses to identify customers at risk of churning and implement targeted retention strategies.
